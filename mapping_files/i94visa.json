@@ -1,1 +1,1 @@
-{"1": "Business", "2": "Pleasure", "3": "Student"}
+{"schema":{"fields":[{"name":"index","type":"integer"},{"name":"code","type":"string"},{"name":"visa_type","type":"string"}],"primaryKey":["index"],"pandas_version":"1.4.0"},"data":[{"index":0,"code":"1","visa_type":"Business"},{"index":1,"code":"2","visa_type":"Pleasure"},{"index":2,"code":"3","visa_type":"Student"}]}

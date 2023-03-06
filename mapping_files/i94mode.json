@@ -1,1 +1,1 @@
-{"1": "Air", "2": "Sea", "3": "Land", "9": "Not reported"}
+{"schema":{"fields":[{"name":"index","type":"integer"},{"name":"code","type":"string"},{"name":"mode","type":"string"}],"primaryKey":["index"],"pandas_version":"1.4.0"},"data":[{"index":0,"code":"1","mode":"Air"},{"index":1,"code":"2","mode":"Sea"},{"index":2,"code":"3","mode":"Land"},{"index":3,"code":"9","mode":"Not reported"}]}
